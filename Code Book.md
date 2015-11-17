@@ -8,7 +8,10 @@ output: html_document
 ## Description
 dfWCmean.txt is a data created by run_analysis.R to stored  independent tidy data set with the average of each variable for each activity and each subject.
 
-## Field list
+## Raw data
+Feature of variable (x), Subject , Activity(y)
+
+## Processed data
 
 * subject       : subject from subject_train.txt or subject_test.txt 
 * activity      : activity from y_train.txt or y_test.txt , numeric value was replaced by descrivtive activity name below 

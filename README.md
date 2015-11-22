@@ -23,7 +23,8 @@ Feature of variable (x), Subject , Activity(y)
     * 6 LAYING
 
 ### Variables( Features )
-        Variables names represents Features' names. Below give information about which column we choosed from source file for each variable. About Features name, read mrore in topic "Feature's name"
+Variables names represents Features' names. Below give information about which column we choosed from source file for each variable. About Features name, read mrore in topic "Feature's name"
+        
 * 	tBodyAcc.Mean.X	: represent mean of  column number 	1	from variable file ( x)
 * 	tBodyAcc.Mean.Y	: represent mean of  column number 	2	from variable file ( x)
 * 	tBodyAcc.Mean.Z	: represent mean of  column number 	3	from variable file ( x)
